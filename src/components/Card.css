@@ -1,0 +1,35 @@
+.card {
+    background-color: white;
+    width: 500px;
+    margin: 3%;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.04);
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+    margin-right: 1rem;
+    color: #262525;
+}
+
+.title-release {
+    display: flex;
+    align-items: center;
+}
+
+.release {
+    font-size: 14px;
+}
+
+.description {
+    margin-top: 1rem;
+    line-height: 140%;
+    color: #5A5A5A;
+}
+
+.director {
+    margin-top: 1rem;
+    font-weight: 600;
+    color: #373737;
+}
