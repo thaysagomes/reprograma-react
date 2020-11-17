@@ -13,3 +13,9 @@
   align-items: flex-start;
   background: url('./assets/totoro.svg')
 }
+
+.poster {
+  width: 465px;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
